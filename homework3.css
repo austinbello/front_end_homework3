@@ -1,0 +1,244 @@
+
+/* Let's make this form a little less ugly */
+html {
+  font-size: 16px;
+}
+body {
+    margin: 0;
+    padding: 1em;
+    font-family: 'Roboto', 'Helvetica', 'Helvetica Neue', sans-serif;
+}
+
+.pic {
+	text-align: center;
+}
+
+.center {
+      
+      margin: 0 auto;
+      
+    }
+
+.love_match {
+      
+      font-family: futura;
+      font-style: italic;
+      
+      width:100%;
+
+      text-align: center;
+      
+      color:#313131;
+      font-size:45px;
+      font-weight: bold;
+      position: relative;
+      -webkit-animation:colorchange 20s infinite alternate;
+      
+      
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: red;
+      }
+      
+      10% {
+        
+        color: pink;
+      }
+      
+      20% {
+        
+        color: purple;
+      }
+      
+      30% {
+        
+        color: red;
+      }
+      
+      40% {
+        
+        color: pink;
+      }
+      
+      50% {
+        
+        color: purple;
+      }
+      
+      60% {
+        
+        color: red;
+      }
+      
+      70% {
+        
+        color: pink;
+      }
+      80% {
+     
+        color: purple;
+      }
+      
+      90% {
+     
+        color: red;
+      }
+      
+      100% {
+        
+        color: pink;
+      }
+}
+
+.no_match {
+      
+      font-family: futura;
+      font-style: italic;
+      
+      width:100%;
+      
+      /*margin: 0 auto;*/
+      text-align: center;
+      
+      color:#313131;
+      font-size:45px;
+      font-weight: bold;
+      position: relative;
+      -webkit-animation:colorchange 20s infinite alternate;
+      
+      
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: black;
+      }
+      
+      10% {
+        
+        color: grey;
+      }
+      
+      20% {
+        
+        color: darkgreen;
+      }
+      
+      30% {
+        
+        color: darkblue;
+      }
+      
+      40% {
+        
+        color: black;
+      }
+      
+      50% {
+        
+        color: grey;
+      }
+      
+      60% {
+        
+        color: darkgreen;
+      }
+      
+      70% {
+        
+        color: darkblue;
+      }
+      80% {
+     
+        color: black;
+      }
+      
+      90% {
+     
+        color: grey;
+      }
+      
+      100% {
+        
+        color: darkgreen;
+      }
+}
+
+.maybe {
+      
+      font-family: futura;
+      font-style: italic;
+      
+      width:100%;
+      
+      /*margin: 0 auto;*/
+      text-align: center;
+      
+      color:#313131;
+      font-size:45px;
+      font-weight: bold;
+      position: relative;
+      -webkit-animation:colorchange 20s infinite alternate;
+      
+      
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: green;
+      }
+      
+      10% {
+        
+        color: yellow;
+      }
+      
+      20% {
+        
+        color: blue;
+      }
+      
+      30% {
+        
+        color: red;
+      }
+      
+      40% {
+        
+        color: purple;
+      }
+      
+      50% {
+        
+        color: orange;
+      }
+      
+      60% {
+        
+        color: teal;
+      }
+      
+      70% {
+        
+        color: magenta;
+      }
+      80% {
+     
+        color: green;
+      }
+      
+      90% {
+     
+        color: yellow;
+      }
+      
+      100% {
+        
+        color: purple;
+      }
+}
